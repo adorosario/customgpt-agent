@@ -46,9 +46,9 @@
 
 <sub>Leading entries on the [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) (June 2026). CustomGPT.ai holds the #1 position.</sub>
 
-<!-- Optional: drop the leaderboard screenshot into the repo (e.g. docs/gaia-leaderboard.png) and uncomment:
-<p align="center"><img src="docs/gaia-leaderboard.png" alt="GAIA Leaderboard — CustomGPT.ai #1" width="900"></p>
--->
+<p align="center">
+  <img src="assets/gaia-leaderboard.png" alt="GAIA Leaderboard — CustomGPT.ai Research Lab ranked #1" width="900">
+</p>
 
 ---
 
@@ -230,23 +230,23 @@ In this agent, CustomGPT.ai serves as the **knowledge base layer**, providing se
 
 | | Role |
 |---|---|
-| **[Alden Do Rosario](https://github.com/adorosario)** | CEO, CustomGPT.ai |
+| [Alden Do Rosario](https://github.com/adorosario) | CEO, CustomGPT.ai |
 
 ### Project & Product Management
 
 | | Role & Contributions |
 |---|---|
-| **[Felipe Pires](https://github.com/felipepiresx)** | Technical Product Manager & Project Manager — hiring and team building; task breakdown, distribution, and dispatch; evaluation strategy & methodology; regression/canary validation harness design; competitive benchmark research; multi-model integration and agent architecture direction |
+| [Felipe Pires](https://github.com/felipepiresx) | Technical Product Manager & Project Manager — hiring and team building; task breakdown, distribution, and dispatch; evaluation strategy & methodology; regression/canary validation harness design; competitive benchmark research; multi-model integration and agent architecture direction |
 
 ### Developers
 
 | Developer | Focus |
 |-----------|-------|
-| **[Aleksa Stojanović](https://github.com/polux0)** | Research, methodology, and team coordination — identified tooling and infrastructure gaps; built verification pipelines and analysis tooling; supported L3 edge-case tooling directions (Street View, multimedia, Wikipedia API); helped focus team effort on high-leverage work; led the final merge to main |
-| **[Ramzi](https://github.com/Ramsey542)** | YouTube & media MCP tool suite (metadata, captions, song ID, frame/audio extraction) and orchestrator routing for video/audio; reasoning-rule additions (percent-change, formula delegation, count-with-exclusion, ranked extraction, temporal anchoring, multi-source/batch); RSV video-counting pattern; browser/PDF/figure error recovery; CRITIC verification rules (anti-sycophancy, FORMAT A/B, shortcut detection) |
-| **[Hussein Younes](https://github.com/hussein987)** | Vision pipeline — self-consistency voting in `describe_image`, the `image_question` narrow-question wrapper, describe-image caps / anti-fixation, and Gemini 3.1 vision routing for spatial questions; grounded-CRITIC verification; `find_paper` + `fetch_via_wayback` research tools; tool-delegation robustness and error-recovery fixes; quadruple-verification audit logging; and the agent test suite (voting, experience memory, infra-retry, subagents) |
-| **[Arnav Gupta](https://github.com/arnavgupta00)** | Multi-provider orchestrator (Claude Opus 4.6/4.7 + GPT-5.5, per-run thinking level); vision-first computer use (headed Chromium + `cu_*` suite for Street View, 3D viewers, maps); Plan → Act → Verify loop (PLANNER + VISUAL ANALYST subagents, Gemini 3.1 Pro secondary vision); evidence tooling & observability (source-traceable research tools, model-I/O logging, real-time progress bus) |
-| **[Dennis Yavuz](https://github.com/uckmhnds)** | Early engineering on the initial implementation — orchestrator scaffolding, specialist subagents, MCP tool layer, and E2B sandbox integration |
+| [Aleksa Stojanović](https://github.com/polux0) | Research, methodology, and team coordination — identified tooling and infrastructure gaps; built verification pipelines and analysis tooling; supported L3 edge-case tooling directions (Street View, multimedia, Wikipedia API); helped focus team effort on high-leverage work; led the final merge to main |
+| [Ramzi Mo](https://github.com/Ramsey542) | YouTube & media MCP tool suite (metadata, captions, song ID, frame/audio extraction) and orchestrator routing for video/audio; reasoning-rule additions (percent-change, formula delegation, count-with-exclusion, ranked extraction, temporal anchoring, multi-source/batch); RSV video-counting pattern; browser/PDF/figure error recovery; CRITIC verification rules (anti-sycophancy, FORMAT A/B, shortcut detection) |
+| [Hussein Younes](https://github.com/hussein987) | Vision pipeline — self-consistency voting in `describe_image`, the `image_question` narrow-question wrapper, describe-image caps / anti-fixation, and Gemini 3.1 vision routing for spatial questions; grounded-CRITIC verification; `find_paper` + `fetch_via_wayback` research tools; tool-delegation robustness and error-recovery fixes; quadruple-verification audit logging; and the agent test suite (voting, experience memory, infra-retry, subagents) |
+| [Arnav Gupta](https://github.com/arnavgupta00) | Multi-provider orchestrator (Claude Opus 4.6/4.7 + GPT-5.5, per-run thinking level); vision-first computer use (headed Chromium + `cu_*` suite for Street View, 3D viewers, maps); Plan → Act → Verify loop (PLANNER + VISUAL ANALYST subagents, Gemini 3.1 Pro secondary vision); evidence tooling & observability (source-traceable research tools, model-I/O logging, real-time progress bus) |
+| [Dennis Yavuz](https://github.com/uckmhnds) | Early engineering on the initial implementation — orchestrator scaffolding, specialist subagents, MCP tool layer, and E2B sandbox integration |
 
 ---
 
