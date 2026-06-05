@@ -32,7 +32,7 @@
 
 ## 🏆 Results — #1 on the GAIA Leaderboard
 
-**CustomGPT.ai Research Lab is #1 on the [GAIA benchmark](https://huggingface.co/spaces/gaia-benchmark/leaderboard)** (Results: Test) — the top-ranked general AI assistant agent in the world, ahead of every major lab.
+**CustomGPT.ai Research Lab is #1 on the [GAIA benchmark](https://huggingface.co/spaces/gaia-benchmark/leaderboard)** — the top-ranked general AI assistant agent in the world, ahead of every major lab.
 
 | Rank | Agent | Organisation | Average score |
 |:---:|---|---|:---:|
@@ -44,7 +44,7 @@
 | 6 | SU Zero – Shuqian Series Pro MAX | Suzhou AI Lab / Shuqian Tech | 90.03% |
 | 7 | HALO V1217-1 | Microsoft AI Asia – Ads | 89.37% |
 
-<sub>Leading entries on the [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) (Results: Test, June 2026). CustomGPT.ai holds the #1 position and several of the next-highest spots.</sub>
+<sub>Leading entries on the [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) (June 2026). CustomGPT.ai holds the #1 position.</sub>
 
 <!-- Optional: drop the leaderboard screenshot into the repo (e.g. docs/gaia-leaderboard.png) and uncomment:
 <p align="center"><img src="docs/gaia-leaderboard.png" alt="GAIA Leaderboard — CustomGPT.ai #1" width="900"></p>
