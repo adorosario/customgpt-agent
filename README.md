@@ -44,7 +44,7 @@
 | 6 | SU Zero – Shuqian Series Pro MAX | Suzhou AI Lab / Shuqian Tech | 90.03% |
 | 7 | HALO V1217-1 | Microsoft AI Asia – Ads | 89.37% |
 
-<sub>Leading entries on the [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) (June 2026). CustomGPT.ai holds the #1 position.</sub>
+<sub>Leading entries on the [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) as of 5 June 2026. CustomGPT.ai holds the #1 position.</sub>
 
 <p align="center">
   <img src="assets/gaia-leaderboard.png" alt="GAIA Leaderboard — CustomGPT.ai Research Lab ranked #1" width="900">
