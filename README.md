@@ -83,7 +83,7 @@ The system is organized into four planes: a **provider-agnostic orchestrator**, 
 └──┬───┘ └──┬───┘ └──┬────┘ └──┬────┘ └──┬────┘ └─┬──────┘
    │        │        │         │         │        │
 ┌──▼────────▼────────▼─────────▼─────────▼────────▼───────────────────────┐
-│                       MCP TOOL LAYER  (~30 tools)                        │
+│                       MCP TOOL LAYER  (~80 tools)                        │
 │  Search/Browse:  web_search · search_wiki · search_google · query_arxiv │
 │                  · ask_perplexity · jina_search · jina_read ·           │
 │                  browse_webpage · search_archive · find_paper ·         │
