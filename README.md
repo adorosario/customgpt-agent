@@ -17,15 +17,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Orchestrator-Multi--Provider-blueviolet?style=flat-square" alt="Multi-Provider Orchestrator">
-  <img src="https://img.shields.io/badge/Claude-Opus_4.6_%2F_4.7-blueviolet?style=flat-square" alt="Claude Opus 4.6 / 4.7">
-  <img src="https://img.shields.io/badge/OpenAI-GPT--5.5-412991?style=flat-square&logo=openai" alt="GPT-5.5">
-  <img src="https://img.shields.io/badge/Vision-Gemini_3.1_Pro-4285F4?style=flat-square&logo=google" alt="Gemini 3.1 Pro">
+  <a href="#architecture"><img src="https://img.shields.io/badge/Orchestrator-Multi--Provider-blueviolet?style=flat-square" alt="Multi-Provider Orchestrator"></a>
+  <a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-Opus_4.6_%2F_4.7-blueviolet?style=flat-square" alt="Claude Opus 4.6 / 4.7"></a>
+  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-GPT--5.5-412991?style=flat-square&logo=openai" alt="GPT-5.5"></a>
+  <a href="https://deepmind.google/technologies/gemini/"><img src="https://img.shields.io/badge/Vision-Gemini_3.1_Pro-4285F4?style=flat-square&logo=google" alt="Gemini 3.1 Pro"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GAIA_Leaderboard-%231-gold?style=for-the-badge" alt="GAIA Leaderboard #1">
-  <img src="https://img.shields.io/badge/Average_Score-93.36%25-2ea44f?style=for-the-badge" alt="Average score 93.36%">
+  <a href="https://huggingface.co/spaces/gaia-benchmark/leaderboard"><img src="https://img.shields.io/badge/GAIA_Leaderboard-%231-gold?style=for-the-badge" alt="GAIA Leaderboard #1"></a>
+  <a href="https://huggingface.co/spaces/gaia-benchmark/leaderboard"><img src="https://img.shields.io/badge/Average_Score-93.36%25-2ea44f?style=for-the-badge" alt="Average score 93.36%"></a>
 </p>
 
 ---
