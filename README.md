@@ -2,7 +2,7 @@
   <img src="assets/logo.svg" alt="CustomGPT.ai" width="320">
 </p>
 
-<h1 align="center">CustomGPT Agent</h1>
+<h1 align="center">CustomGPT.ai Agent</h1>
 
 <p align="center">
   <strong>An enterprise-grade AI agent powered by Claude, GPT, Gemini and CustomGPT.ai</strong>
@@ -208,13 +208,13 @@ User Question
   </a>
 </p>
 
-[**CustomGPT.ai**](https://customgpt.ai) is an enterprise AI platform that enables businesses to build custom AI agents powered by their own data — with no hallucinations and full source citations.
+[**CustomGPT.ai**](https://customgpt.ai) is an enterprise AI agentic platform that enables businesses to build custom AI agents powered by their own data - with no hallucinations and full source citations.
 
 **Key Capabilities:**
 - **1,400+ data formats** — Ingest websites, documents, helpdesks, videos, and more
 - **Anti-hallucination technology** — Third-party verified #1 for accuracy
 - **92 languages** supported
-- **40+ REST API endpoints** — Full programmatic access for agent integration
+- **RAG-As-A-Service API** — Full programmatic access for agent integration
 - **SOC-2 Type II & GDPR** compliant
 - **Enterprise-grade security** — Data never used for LLM training
 
